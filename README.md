@@ -1,5 +1,3 @@
-# Design-Prototype
-This is an openFDA Project Degisn Prototype Repository
 
 URL : http://52.25.235.219/openFDADesign/
 
